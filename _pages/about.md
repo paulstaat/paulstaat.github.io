@@ -1,20 +1,16 @@
 ---
 permalink: /
-title: "Hi!"
+title: "Hello World!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of Paul's website.
+Hi! I'm a postdoc in Prof. Christof Paar's <a href="https://www.mpi-sp.org/paar" target="_blank">Embedded Security (EMSEC)</a> group at MPI-SP in Bochum, Germany. 
+
+My research explores security and privacy aspects associated with physical-layer technologies of wireless radio systems. 
+
+This website is still under cunstruction.
 
 
-Getting started
-------
-Lorem ipsum.
-
-
-Publications
-------
-Maggie 

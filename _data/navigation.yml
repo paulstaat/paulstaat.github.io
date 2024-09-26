@@ -23,5 +23,5 @@ main:
   #- title: "PhD Thesis"
   #  url: /files/thesis_staat.pdf    
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
