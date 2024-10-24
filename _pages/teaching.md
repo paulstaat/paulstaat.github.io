@@ -9,6 +9,7 @@ author_profile: true
 * Teaching assistant for "Einführung in die Kryptographie 2" (summer terms 2021, 2022, 2023)
 * Contribution of exercises and lecture material on digital signal processing and channel state information to "Wireless Physical-Layer Security"
 * Seminar supervision in 2019 and 2020.
+* Supervision of bachelor and master theses as well as research interns.
 
 
 Supervised Theses
