@@ -27,6 +27,11 @@
   }
 }
 
+.archive__custom-spacing {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -40,7 +45,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.1em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -80,7 +85,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
   }
 }
 
