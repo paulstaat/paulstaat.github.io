@@ -5,14 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited talks
+Invited Talks
 ------
 * **IRShield: How to Counter Privacy Threats of Wireless Sensing**<br>October 2023, 8th Huawei Future Device Technology Summit, Helsinki, Finland
 * **Your Wi-Fi is the Eavesdropper's Radar: How to Counter Privacy Threats of Wireless Sensing**<br>May 2023, RuhrSec 2023, Bochum, Germany
 * **A Guide to Wireless Sensing for Security and Privacy**<br>Joint talk with Christof Paar, September 2022, AFO Seminar Series, Microsoft AFO Research (remote presentation)
 
 
-Paper presentations
+Paper Presentations
 ------
 * **Mirror Mirror on the Wall: Wireless Environment Reconfiguration Attacks Based on Fast Software-Controlled Surfaces**<br>May 2022, ACM AsiaCCS, Nagasaki, Japan (remote presentation)
 * **IRShield: A Countermeasure Against Adversarial Physical-Layer Wireless Sensing**<br>May 2022, IEEE S&P, San Francisco, USA
