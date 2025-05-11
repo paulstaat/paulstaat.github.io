@@ -220,6 +220,18 @@ li {
     margin-bottom: 20px; /* Adjust as needed */
 }
 
+
+.spaced-ul > li {
+  margin-bottom: 1.5em; /* spacing between entries */
+}
+
+/* Reduce spacing between internal lines (link, authors, venue) */
+.spaced-ul li br {
+    line-height: 1; /* tightens spacing between <br> elements */
+  }
+
+
+
 @media(min-width: 35em) {
  .col {
  display: table-cell;
