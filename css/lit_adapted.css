@@ -146,6 +146,11 @@ a:hover{
  font-size: 0.8em
 }
 
+.venue-top {
+  font-weight: bold;
+  color: var(--color-1);
+}
+
 .btn { /*Emphasis button (light color)*/
  padding: 0.35em;
  text-transform: uppercase;
@@ -216,20 +221,23 @@ li {
     margin: 0px 0;
 }
 
-.spaced-ul {
-    margin-bottom: 20px; /* Adjust as needed */
+.publications-ul {
+  margin-top: 0.5em;
 }
 
+.publications-ul > li {
+  margin-bottom: 0.75em;
+}
+
+.publications-ul > li > span {
+  display: block;
+  margin: 0;          /* override the *+* { margin: .5em 0 } rule */
+  line-height: 1.6;   /* match .c body line-height */
+}
 
 .spaced-ul > li {
-  margin-bottom: 1.5em; /* spacing between entries */
+  margin-bottom: 1.5em;
 }
-
-/* Reduce spacing between internal lines (link, authors, venue) */
-.spaced-ul li br {
-    line-height: 1; /* tightens spacing between <br> elements */
-  }
-
 
 
 @media(min-width: 35em) {
